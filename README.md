@@ -45,4 +45,4 @@ Check out our [Examples](examples/) section for sample projects and practical us
 
 Feel free to reach out if you have any questions. You don't need to learn everything at once—you’ll get there as you start working on the projects.
 
-Best,
+Reach out to us at: *TBD*
