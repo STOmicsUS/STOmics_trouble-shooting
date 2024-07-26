@@ -1,5 +1,5 @@
 name: Question
-description: Ask a question to help us improve or understand better
+description: Ask a question to get help or clarification on a topic
 title: "[Question] "
 labels: ["Question"]
 body:
