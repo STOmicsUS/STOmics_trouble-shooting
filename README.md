@@ -1,8 +1,8 @@
-# SAW: Stereo-seq Troubleshooting and Additional Resources
+# Stereo-seq Troubleshooting and Additional Resources
 
-The Stereo-seq Analysis Workflow (SAW) software suite consists of a comprehensive set of pipelines designed to process sequencing data from Stereo-seq, generating spatial gene expression matrices for downstream analysis. This repository is dedicated to offering solutions to common issues, additional resources, and valuable materials related to SAW.
+The Stereo-seq Analysis Workflow (SAW) software suite consists of a comprehensive set of pipelines designed to process sequencing data from Stereo-seq, generating spatial gene expression matrices for downstream analysis. This repository is dedicated to offering solutions to common issues, additional resources, and comprehensive guides related to SAW, StereoMap, and supporting sowftware.
 
-This is designed to be a supplementary resource to the [main SAW documentation](https://github.com/STOmics/SAW). **Please refer to the main documentation for a detailed setup and use guide**.
+This repository is designed to be a supplementary resource to the [main SAW documentation](https://github.com/STOmics/SAW), [StereoMap documentation](https://www.stomics.tech/helpcenter/usermanual/E.Project/F.Tool/C.StereoMap.html#gene-protein-panel), and [Stereopy documentation](https://stereopy.readthedocs.io/en/latest/). **Please refer to the main documentations for detailed setup and use guides**.
 
 ## ❓Frequently Asked Questions (FAQs)
 Please refer to our *FAQs*, which have been compiled from community contributions and categorized according to common issues:
@@ -22,6 +22,8 @@ We have compiled a list of **Additional Resources** to help you get started and 
 - [File Formats](./file_formats/) - detailed information on the file formats used in SAW (GEM, GEF, rds, etc.).
 - [Docker/Singularity](./docker_singularity_imagestudio/) - guides on how to use Docker and Singularity containers.
 - [Downstream Analysis](./downstream_and_segmentation/) - guides on how to perform downstream analysis using StereoMap and more using SAW-generated data.
+- [StereoMap Usage Examples](./media/) - examples of how to use StereoMap.
+- [StereoPy](./media/) - guides on how to use StereoPy.
 
 ## 📝 Test Data
 Check out our [test data](https://github.com/STOmics/SAW/tree/main/Test_Data) to practice running the SAW pipelines.
