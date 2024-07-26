@@ -1,48 +1,29 @@
-# Stomics Troubleshooting and Additional Resources
+# SAW: Stereo-seq Troubleshooting and Additional Resources
 
-Welcome to the Stomics troubleshooting and resources repository. This repository is dedicated to providing solutions to common issues, additional resources, and useful materials related to Stomics computational solutions.
+The Stereo-seq Analysis Workflow (SAW) software suite consists of a comprehensive set of pipelines designed to process sequencing data from Stereo-seq, generating spatial gene expression matrices for downstream analysis. This repository is dedicated to offering solutions to common issues, additional resources, and valuable materials related to SAW.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Troubleshooting Guide](#troubleshooting-guide)
-- [Additional Resources](#additional-resources)
-- [Media Materials](#media-materials)
-- [Scripts](#scripts)
-- [Examples](#examples)
-- [Resources](#resources)
+This is designed to be a supplementary resource to the [main SAW documentation](https://github.com/STOmics/SAW). **Please refer to the main documentation for a detailed setup and use guide**.
 
-## Introduction
-This repository aims to assist users with troubleshooting common issues and provide additional resources for Stomics computational solutions. Here, you will find guides, scripts, example projects, and links to useful materials.
+## ❓Frequently Asked Questions (FAQs)
+Please refer to our *FAQs*, which have been compiled from community contributions and categorized according to common issues:
 
-## Troubleshooting Guide
-Check out our [Troubleshooting Guide](docs/troubleshooting-guide.md) for solutions to common problems encountered when using Stomics tools.
+- [Setup/Installation](./setup_installation/setup_installation_FAQ.md)
+- [SAW modules](./SAW_modules/SAW_modules_FAQ.md)
+- [File Formats](./file_formats/file_formats_FAQ.md)
+- [Downstream Analysis](./downstream_analysis/downstream_analysis_FAQ.md)
+- [Docker/Singularity/ImageStudio](./docker_singularity_imagestudio/docker_singularity_imagestudio_FAQ.md)
 
-## Additional Resources
-We have compiled a list of [Additional Resources](docs/additional-resources.md) to help you get started and deepen your understanding.
+If you can't find a solution, please feel free to [report the bug or ask a question](https://github.com/STOmicsUS/STOmics_trouble-shooting/issues/new/choose).
 
-## Media Materials
-Explore our collection of [Media Materials](media/) including slides, notes, and videos that provide more insights into our projects and tools.
+## 📖 Additional Resources
+We have compiled a list of **Additional Resources** to help you get started and deepen your understanding.
 
-## Scripts
-Find useful [Scripts](scripts/) that can help automate tasks and improve your workflow.
+- [Media Materials](./media/) - collection of videos showing how to use various modules in SAW.
+- [File Formats](./file_formats/) - detailed information on the file formats used in SAW (GEM, GEF, rds, etc.).
+- [Docker/Singularity](./docker_singularity_imagestudio/) - guides on how to use Docker and Singularity containers.
+- [Downstream Analysis](./downstream_analysis/) - guides on how to perform downstream analysis using StereoMap and more using SAW-generated data.
 
-## Examples
-Check out our [Examples](examples/) section for sample projects and practical use cases.
+## 📝 Test Data
+Check out our [test data](https://github.com/STOmics/SAW/tree/main/Test_Data) to practice running the SAW pipelines.
 
-## Resources
-### Docker and Singularity
-- [Docker](https://www.docker.com/)
-- [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html)
-
-### Google Colab
-- [Google Colab](https://colab.research.google.com/)
-
-### Linux/Unix Command Lines
-- [Useful Linux Command Lines](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)
-
-### Git and GitHub
-- [Git and GitHub Guide](https://docs.github.com/en/get-started/using-git/about-git)
-
-Feel free to reach out if you have any questions. You don't need to learn everything at once—you’ll get there as you start working on the projects.
-
-Reach out to us at: *TBD*
+Please feel free to reach out with [questions, feedback, or suggest new features](https://github.com/STOmicsUS/STOmics_trouble-shooting/issues/new/choose). We are here to help you!
