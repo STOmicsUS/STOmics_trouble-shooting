@@ -21,7 +21,7 @@ We have compiled a list of **Additional Resources** to help you get started and 
 - [Media Materials](./media/) - collection of videos showing how to use various modules in SAW.
 - [File Formats](./file_formats/) - detailed information on the file formats used in SAW (GEM, GEF, rds, etc.).
 - [Docker/Singularity](./docker_singularity_imagestudio/) - guides on how to use Docker and Singularity containers.
-- [Downstream Analysis](./downstream_analysis/) - guides on how to perform downstream analysis using StereoMap and more using SAW-generated data.
+- [Downstream Analysis](./downstream_and_segmentation/) - guides on how to perform downstream analysis using StereoMap and more using SAW-generated data.
 
 ## 📝 Test Data
 Check out our [test data](https://github.com/STOmics/SAW/tree/main/Test_Data) to practice running the SAW pipelines.
