@@ -6,18 +6,15 @@ This repository is designed to be a supplementary resource to the [main SAW docu
 
 ## ⭐New SAW v8 Update
 
-This major update introduces significant changes to SAW, including a new self-contained format, integrated pipelines, and support for FFPE samples and microorganism analysis. Please be patient with us as we work on ironing out bugs and improving the software. 
+The SAW v8 update introduces major changes, including a self-contained format, integrated pipelines, and support for FFPE samples and microorganism analysis. Key updates include:
 
-**Key Changes & Potential Issues:**
+- **Self-Contained Format:** Download and unpack the new tar.gz package—no additional environment configuration needed.
+- **Integrated Pipelines:** Simplified workflows with commands like `SAW count` and `SAW makeRef`.
+- **FFPE & Microorganism Support:** Expanded analysis capabilities for FFPE samples and microorganism data.
 
-* **Self-Contained Format:** If you're accustomed to the previous installation process, ensure you download the new tar.gz file and unpack it. No additional environment configuration is needed.
-* **Integrated Pipelines:** Familiarize yourself with the new pipeline commands (e.g., `SAW count`, `SAW makeRef`). [Refer to the updated documentation](https://en.stomics.tech/service/new-saw-operation-manual.html) for detailed usage instructions.
-* **FFPE Support:** When analyzing FFPE samples, remember to specify the `--kit-version` as "Stereo-seq N FFPE Kit V1.0" during the `SAW count` step.
-* **Microorganism Analysis:**  Ensure you have the necessary reference files prepared before enabling microorganism analysis with the `--microorganism-detect` flag.
-* **Output Directory Structure:** The output directory structure has been reorganized. Be sure to check the new locations for your result files.
+For detailed information on these updates, please refer to the [SAW v8 Overview](./SAW_v8.md).
 
-
-If you encounter any problems, please [report them](https://github.com/STOmicsUS/STOmics_trouble-shooting/issues/new/choose) so we can continue to push our software!
+If you encounter any problems, please [report them](https://github.com/STOmicsUS/STOmics_trouble-shooting/issues/new/choose) so we can continue to improve the software!
 
 
 ## ❓Frequently Asked Questions (FAQs)
