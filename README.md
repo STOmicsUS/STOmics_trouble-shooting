@@ -31,7 +31,7 @@ If you can't find a solution, please feel free to [report the bug or ask a quest
 ## 📖 Additional Resources
 We have compiled a list of **Additional Resources** to help you get started and deepen your understanding.
 
-- [Media Materials](./media/) - collection of videos showing how to use various modules in SAW.
+- [Media Materials](./media/media_materials.md) - collection of videos showing how to use various modules in SAW.
 - [File Formats](./file_formats/) - detailed information on the file formats used in SAW (GEM, GEF, rds, etc.).
 - [Docker/Singularity](./docker_singularity_imagestudio/) - guides on how to use Docker and Singularity containers.
 - [Downstream Analysis](./downstream_and_segmentation/) - guides on how to perform downstream analysis using StereoMap and more using SAW-generated data.
